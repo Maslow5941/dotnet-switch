@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\esof\dotnetCase\bin\Debug\net6.0\dotnetCase.exe
+C:\Users\Eduardo\Desktop\esof\dotnetCase\bin\Debug\net6.0\dotnetCase.deps.json
+C:\Users\Eduardo\Desktop\esof\dotnetCase\bin\Debug\net6.0\dotnetCase.runtimeconfig.json
+C:\Users\Eduardo\Desktop\esof\dotnetCase\bin\Debug\net6.0\dotnetCase.dll
+C:\Users\Eduardo\Desktop\esof\dotnetCase\bin\Debug\net6.0\dotnetCase.pdb
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.dll
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\refint\dotnetCase.dll
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.pdb
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\dotnetCase.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\esof\dotnetCase\obj\Debug\net6.0\ref\dotnetCase.dll
